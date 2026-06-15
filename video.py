@@ -14,7 +14,7 @@ from tkinter import filedialog
 
 # ===================== SYSTÈME DE MISE À JOUR AUTO =====================
 # Remplace cette URL par l'URL "Raw" de ton fichier sur GitHub
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/rusher-code-330/pgr-video/tree/main"
+GITHUB_RAW_URL = "https://raw.github.com/rusher-code-330/pgr-video/blob/main/video.py"
 
 def check_for_updates():
     """Vérifie le dépôt GitHub, télécharge le nouveau code si modifié et redémarre."""
